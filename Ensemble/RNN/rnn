@@ -1,0 +1,2 @@
+model_checkpoint_path: "tweets_cleaned.csv"
+all_model_checkpoint_paths: "tweets_cleaned.csv"
